@@ -144,10 +144,7 @@ The API is namespaced under `/api`:
 
 ## Security and privacy
 
-- Environment files, local database settings, secrets, logs, build output, and
-  dependency folders are excluded through `.gitignore`.
-- Demo credentials are not documented in the repository because they are tied
-  to a particular database. Create your own credentials using the registration
-  flow or the seed-script environment variables.
+- Demo credentials are not documented in the repository. Create your own 
+  credentials using the registration flow or the seed-script environment variables.
 - This application is for learning and demonstration only. Do not use it with
   real patient data without a thorough security, privacy, and compliance review.
